@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(5148,5): warning MSB3061: "E:\study\Network_Programming_win\Part1\ex4_2\Debug\ex4_2.exe" 파일을 삭제할 수 없습니다. 'E:\study\Network_Programming_win\Part1\ex4_2\Debug\ex4_2.exe' 경로에 대한 액세스가 거부되었습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets(76,5): warning : 'e:\study\network_programming_win\part1\ex4_2\debug\ex4_2.exe' 경로에 대한 액세스가 거부되었습니다.
+  echo_client_win.cpp
+LINK : fatal error LNK1104: 'E:\study\Network_Programming_win\Part1\ex4_2\Debug\ex4_2.exe' 파일을 열 수 없습니다.

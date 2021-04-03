@@ -1,0 +1,11 @@
+﻿  echo_client_win.cpp
+E:\study\Network_Programming_win\Part1\ex4_2\echo_client_win.cpp(87,38): error C2664: 'void ErrorHandling(char *)': 인수 1을(를) 'const char [20]'에서 'char *'(으)로 변환할 수 없습니다.
+E:\study\Network_Programming_win\Part1\ex4_2\echo_client_win.cpp(87,17): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+E:\study\Network_Programming_win\Part1\ex4_2\echo_client_win.cpp(71,6): message : 'ErrorHandling' 선언을 참조하십시오.
+E:\study\Network_Programming_win\Part1\ex4_2\echo_client_win.cpp(91,33): error C2664: 'void ErrorHandling(char *)': 인수 1을(를) 'const char [15]'에서 'char *'(으)로 변환할 수 없습니다.
+E:\study\Network_Programming_win\Part1\ex4_2\echo_client_win.cpp(91,17): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+E:\study\Network_Programming_win\Part1\ex4_2\echo_client_win.cpp(71,6): message : 'ErrorHandling' 선언을 참조하십시오.
+E:\study\Network_Programming_win\Part1\ex4_2\echo_client_win.cpp(99,35): error C2664: 'void ErrorHandling(char *)': 인수 1을(를) 'const char [17]'에서 'char *'(으)로 변환할 수 없습니다.
+E:\study\Network_Programming_win\Part1\ex4_2\echo_client_win.cpp(99,17): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+E:\study\Network_Programming_win\Part1\ex4_2\echo_client_win.cpp(71,6): message : 'ErrorHandling' 선언을 참조하십시오.
+E:\study\Network_Programming_win\Part1\ex4_2\echo_client_win.cpp(111,44): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
