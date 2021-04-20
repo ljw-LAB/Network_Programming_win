@@ -1,0 +1,9 @@
+﻿  event.cpp
+d:\study\networking_programming(win)\part2\ex19_4\event.cpp(38): warning C4390: ';': 제어된 빈 문이 있습니다. 이 문이 필요합니까?
+d:\study\networking_programming(win)\part2\ex19_4\event.cpp(40): warning C4390: ';': 제어된 빈 문이 있습니다. 이 문이 필요합니까?
+  코드를 생성하고 있습니다.
+  1 of 7 functions (14.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  ex19_4.vcxproj -> D:\study\Networking_Programming(win)\Part2\ex19_4\Release\ex19_4.exe
