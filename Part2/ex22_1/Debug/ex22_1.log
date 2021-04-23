@@ -1,0 +1,3 @@
+﻿  Port_EchoServer.cpp
+d:\study\networking_programming(win)\part2\ex22_1\port_echoserver.cpp(45): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\study\networking_programming(win)\part2\ex22_1\port_echoserver.cpp(46): error C3861: '_beginthreadex': 식별자를 찾을 수 없습니다.
